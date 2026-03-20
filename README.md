@@ -1,4 +1,4 @@
-# FCV1 — Raydin Labs Flight Controller
+# Project POLARIS — Raydin Labs Flight Controller
 
 > One platform. Any vehicle. Configure, don't compromise.
 
